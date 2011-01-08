@@ -14,5 +14,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   installing/index
+
 
 .. _Lua: http://www.lua.org/

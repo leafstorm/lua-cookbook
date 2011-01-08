@@ -6,9 +6,12 @@ This is the Lua Cookbook, a community-edited collection of useful advice and
 
 The book is edited using `Sphinx`_. Sphinx requires Python 2.4 or higher to
 be installed (if you don't know, run ``python --version`` and see what prints
-out). If you have setuptools or distribute installed, run
-``easy_install Sphinx``. Your Linux distribution may also provide a Sphinx
-package (probably called ``python-sphinx`` or something similar).
+out).
+
+To install Sphinx, if you have setuptools or distribute installed, you can
+just run ``easy_install Sphinx``. If you run Linux, your distribution may
+provide a package for it (which is probably named something along the lines
+of ``python-sphinx``.)
 
 .. warning::
 
